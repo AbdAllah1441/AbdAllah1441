@@ -16,6 +16,27 @@
 - 🔎 Constantly learning and improving.
 <!-- - 🌐 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
 
+
+  
+<img width="385" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdAllah1441&show_icons=true&locale=en&layout=compact&theme=radical" alt="Languages" />
+
+### Skills 
+
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-141321?&logo=node.js&logoColor=339933)&nbsp; -->
+
+![React.js](https://img.shields.io/badge/-React-141321?&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-141321?&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-141321?logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-141321?&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-141321?&logo=sass)&nbsp;
+![Python](https://img.shields.io/badge/-Python-141321?&logo=python)&nbsp;
+![C/C++](https://img.shields.io/badge/-C/C++-141321?&logo=c)&nbsp;
+![Java](https://img.shields.io/badge/-Java-141321?logo=java)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-141321?&logo=MySQL&logoColor=f6f8fa)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-141321?&logo=MongoDB)&nbsp;
+![Git](https://img.shields.io/badge/-Git-141321?&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-141321?&logo=github)&nbsp;
+
 ### How to Reach Me
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="40em" align="center" alt="" title="LinkedIn"/>](https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D9%85%D8%B5%D8%B7%D9%81%D9%89-b2b33b221/)
@@ -24,22 +45,6 @@
   <a href="mailto:contact@abdullahmostafa9957@gmail.com" target="_blank">
     <img align="center" src="https://icons.veryicon.com/png/o/internet--web/billion-square-cloud/mail-213.png" alt="email" height="40em" />
   </a>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdAllah1441&show_icons=true&locale=en&layout=compact&theme=radical" alt="Languages" />
-### Skills 
-
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp; -->
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![C/C++](https://img.shields.io/badge/-C/C++%20-05122A?style=flat&logo=c)&nbsp;
-![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=java)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL&logoColor=f6f8fa)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 <br>
 
