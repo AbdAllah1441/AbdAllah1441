@@ -1,5 +1,5 @@
 
-<img width="350" align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c072ov0k37tnactnlkdm8g4adc89lqkklkov4tqt&ep=v1_gifs_search&rid=giphy.gif">
+
 
 <h1 align="center">Welcome to AbdAllah Mostafa's profile!</h1>
 
@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00b2df&vCenter=true&size=22"></a>
 </p> 
+<img width="350" align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c072ov0k37tnactnlkdm8g4adc89lqkklkov4tqt&ep=v1_gifs_search&rid=giphy.gif">
 
 - 🏢 I'm a Senior CSE student at ASU
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
