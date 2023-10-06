@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00b2df&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a Senior CSE student at ASU
@@ -15,13 +15,13 @@
 - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
 
 
-### Connect with Me :
+### How to Reach Me :
 
-<a href="https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D9%85%D8%B5%D8%B7%D9%81%D9%89-b2b33b221/" target="_blank"><img src="https://img.shields.io/badge/-AbdAllah%20Mostafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/AbdAllah259" target="_blank"><img src="https://img.shields.io/badge/-AbdAllah%20Mostafa-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.coursera.org/learner/abdallah-1441" target="_blank"><img src="https://img.shields.io/badge/-AbdAllah%20Mostafa-0077B5?style=for-the-badge&logo=Coursera&logoColor=white"/></a>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D9%85%D8%B5%D8%B7%D9%81%D9%89-b2b33b221/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Raym0111)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)
 
-### 🛠 &nbsp;Tech Stack
+### Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
