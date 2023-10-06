@@ -10,6 +10,9 @@
 
 
 
+
+
+
 ### About
 
 - 🕋 Muslim
@@ -18,8 +21,7 @@
 <!-- - 🌐 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
 
 
-  
-<img width="385" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdAllah1441&show_icons=true&locale=en&layout=compact&theme=radical" alt="Languages" />
+<img width="385"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdAllah1441&show_icons=true&locale=en&layout=compact&theme=radical" alt="Languages" />
 
 ### Skills 
 
