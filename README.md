@@ -37,7 +37,7 @@
 ![Git](https://img.shields.io/badge/-Git-141321?&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-141321?&logo=github)&nbsp;
 
-### How to Reach Me
+### How to Reach to Me
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="40em" align="center" alt="" title="LinkedIn"/>](https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D9%85%D8%B5%D8%B7%D9%81%D9%89-b2b33b221/)
 [<img src="https://149357281.v2.pressablecdn.com/wp-content/uploads/2020/12/android-chrome-512x512-1.png" height="40em" align="center" alt="" title="Coursera"/>](https://www.coursera.org/learner/abdallah-1441)
