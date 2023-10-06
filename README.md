@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://media1.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47phax2j5f8fmiznot3udqjt3kb4r91p5cg1vmlymn&ep=v1_gifs_related&rid=giphy.gif">
+<img width="450" align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c072ov0k37tnactnlkdm8g4adc89lqkklkov4tqt&ep=v1_gifs_search&rid=giphy.gif">
 
 <h3 align="center">
   Welcome to AbdAllah Mostafa's profile!
