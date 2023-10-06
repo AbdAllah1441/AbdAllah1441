@@ -8,6 +8,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20web%20developer&font=Fira%20Code&center=true&width=440&height=45&color=00b2df&vCenter=true&size=22"></a>
 </p> 
 
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdAllah1441&show_icons=true&locale=en&layout=compact&theme=radical" alt="Languages" />
+</div>
+
 ### About
 
 - 💻 Senior CSE student at ASU
@@ -24,22 +28,22 @@
 
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;-->
 <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;-->
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40" />
+<img src="https://e7.pngegg.com/pngimages/87/538/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo.png" width="40" />
+<img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="40" />
+
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+<img src="https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667" width="40" />
 ![C++](https://img.shields.io/badge/-c/c++%20-05122A?style=flat&logo=c)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL&logoColor=f5f5f5)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-### Languages
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdAllah1441&show_icons=true&locale=en&layout=compact&theme=radical" alt="Languages" />
 <br>
+
 <!-- <a href="https://komarev.com/ghpvc/?username=AbdAllah1441&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=AbdAllah1441&style=for-the-badge">
 </a> -->
