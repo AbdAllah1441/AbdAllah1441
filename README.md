@@ -1,5 +1,5 @@
 
-<img width="300" align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c072ov0k37tnactnlkdm8g4adc89lqkklkov4tqt&ep=v1_gifs_search&rid=giphy.gif">
+<img width="350" align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c072ov0k37tnactnlkdm8g4adc89lqkklkov4tqt&ep=v1_gifs_search&rid=giphy.gif">
 
 <h1 align="center">Welcome to AbdAllah Mostafa's profile!</h1>
 
@@ -11,9 +11,7 @@
 - 🏢 I'm a Senior CSE student at ASU
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
-
 
 ### How to Reach Me :
 
