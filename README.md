@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20web%20developer&font=Fira%20Code&center=true&width=440&height=45&color=00b2df&vCenter=true&size=22"></a>
 </p> 
-<img width="350" align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c072ov0k37tnactnlkdm8g4adc89lqkklkov4tqt&ep=v1_gifs_search&rid=giphy.gif">
+<img width="393" align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c072ov0k37tnactnlkdm8g4adc89lqkklkov4tqt&ep=v1_gifs_search&rid=giphy.gif">
 
 <h2>About</h2>
 
@@ -37,8 +37,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
-
-
+<h2>Languages</h2>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdAllah1441&show_icons=true&locale=en&layout=compact&theme=radical" alt="Languages" />
 <br>
