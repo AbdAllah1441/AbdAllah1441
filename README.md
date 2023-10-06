@@ -9,6 +9,8 @@
 </p> 
 <img width="350" align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c072ov0k37tnactnlkdm8g4adc89lqkklkov4tqt&ep=v1_gifs_search&rid=giphy.gif">
 
+<h2>About</h2>
+
 - 🏢 I'm a Senior CSE student at ASU
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
@@ -16,10 +18,10 @@
 
 ### How to Reach Me :
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D9%85%D8%B5%D8%B7%D9%81%D9%89-b2b33b221/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Raym0111)
-[<img src="https://149357281.v2.pressablecdn.com/wp-content/uploads/2020/12/android-chrome-512x512-1.png" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://www.coursera.org/learner/abdallah-1441)
-[<img src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](abdullahmostafa9957@gmail.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D9%85%D8%B5%D8%B7%D9%81%D9%89-b2b33b221/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Twitter"/>](https://twitter.com/Raym0111)
+[<img src="https://149357281.v2.pressablecdn.com/wp-content/uploads/2020/12/android-chrome-512x512-1.png" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Coursera"/>](https://www.coursera.org/learner/abdallah-1441)
+[<img src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Gmail"/>](abdullahmostafa9957@gmail.com)
 
 ### Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
