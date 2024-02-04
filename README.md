@@ -43,7 +43,6 @@
 ### How to Reach to Me
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="40em" align="center" alt="" title="LinkedIn"/>](https://www.linkedin.com/in/abdallah1441/)
-[<img src="https://149357281.v2.pressablecdn.com/wp-content/uploads/2020/12/android-chrome-512x512-1.png" height="40em" align="center" alt="" title="Coursera"/>](https://www.coursera.org/learner/abdallah-1441)
 [<img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" height="40em" align="center" alt="" title="Telegram"/>](https://t.me/AbdAllah259)
   <a href="mailto:contact@abdullahmostafa9957@gmail.com" target="_blank">
     <img align="center" src="https://icons.veryicon.com/png/o/internet--web/billion-square-cloud/mail-213.png" alt="email" height="40em" />
