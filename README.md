@@ -27,18 +27,7 @@
 
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-141321?&logo=node.js&logoColor=339933)&nbsp; -->
 
-![React.js](https://img.shields.io/badge/-React-141321?&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-141321?&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-141321?logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-141321?&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-141321?&logo=sass)&nbsp;
-![Python](https://img.shields.io/badge/-Python-141321?&logo=python)&nbsp;
-![C/C++](https://img.shields.io/badge/-C/C++-141321?&logo=c)&nbsp;
-![Java](https://img.shields.io/badge/-Java-141321?logo=java)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-141321?&logo=MySQL&logoColor=f6f8fa)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-141321?&logo=MongoDB)&nbsp;
-![Git](https://img.shields.io/badge/-Git-141321?&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-141321?&logo=github)&nbsp;
+
 
 <img src="https://www.svgrepo.com/show/452092/react.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/452045/js.svg" width="50px" height="50px" />
