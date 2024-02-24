@@ -45,8 +45,8 @@
 <img src="https://www.svgrepo.com/show/374061/sass.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/353884/html-5.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/374016/python.svg" width="50px" height="50px" />
-<img src="https://icons8.com/icon/40670/c-programming" width="50px" height="50px" />
-<img src="https://icons8.com/icon/40669/c%2B%2B" width="50px" height="50px" />
+<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="50px" height="50px" />
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50px" height="50px" />
 
 ### How to Reach to Me
 
