@@ -39,7 +39,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141321?&logo=MongoDB)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141321?&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-141321?&logo=github)&nbsp;
-![image](https://github.com/AbdAllah1441/AbdAllah1441/assets/105519695/087da6a0-905c-4642-8b5f-22a92bb33a0d)
 
 <img src="https://www.svgrepo.com/show/452092/react.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/452045/js.svg" width="50px" height="50px" />
@@ -48,6 +47,8 @@
 <img src="https://www.svgrepo.com/show/353884/html-5.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/374016/python.svg" width="50px" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50px" height="50px" />
+<img src="https://github.com/AbdAllah1441/AbdAllah1441/assets/105519695/5f38d6bc-4a6a-4635-98b6-c11a713e7d9a" width="50px" height="50px" />
+
 
 ### How to Reach to Me
 
