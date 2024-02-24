@@ -39,7 +39,14 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141321?&logo=MongoDB)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141321?&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-141321?&logo=github)&nbsp;
-<img src="https://www.svgrepo.com/show/452092/react.svg" width="60px" height="60px" />
+<img src="https://www.svgrepo.com/show/452092/react.svg" width="50px" height="50px" />
+<img src="https://www.svgrepo.com/show/452045/js.svg" width="50px" height="50px" />
+<img src="https://www.svgrepo.com/show/353623/css-3.svg" width="50px" height="50px" />
+<img src="https://www.svgrepo.com/show/374061/sass.svg" width="50px" height="50px" />
+<img src="https://www.svgrepo.com/show/353884/html-5.svg" width="50px" height="50px" />
+<img src="https://www.svgrepo.com/show/374016/python.svg" width="50px" height="50px" />
+<img src="https://icons8.com/icon/40670/c-programming" width="50px" height="50px" />
+<img src="https://icons8.com/icon/40669/c%2B%2B" width="50px" height="50px" />
 
 ### How to Reach to Me
 
