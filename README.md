@@ -35,6 +35,7 @@
 <img src="https://www.svgrepo.com/show/353884/html-5.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/374016/python.svg" width="50px" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50px" height="50px" />
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="50px" height="50px" />
 
 
 
