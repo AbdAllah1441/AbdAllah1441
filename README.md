@@ -39,7 +39,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141321?&logo=MongoDB)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141321?&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-141321?&logo=github)&nbsp;
-<img src="https://www.svgrepo.com/show/452092/react.svg" width="40px" height="40px" />
+<img src="https://www.svgrepo.com/show/452092/react.svg" width="40em" height="40em" />
 
 ### How to Reach to Me
 
