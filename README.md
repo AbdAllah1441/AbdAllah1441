@@ -29,8 +29,7 @@
 
 
 
-<img src="https://www.svgrepo.com/show/452092/react.svg" width="50px" height="50px" />
-<img display="inline" src="https://www.svgrepo.com/show/452045/js.svg" width="50px" height="50px" />
+<img src="https://www.svgrepo.com/show/452092/react.svg" width="50px" height="50px" /> <img display="inline" src="https://www.svgrepo.com/show/452045/js.svg" width="50px" height="50px" />
 
 
 
