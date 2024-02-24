@@ -37,7 +37,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50px" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50px" height="50px" />
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="50px" height="50px" />
+<img src="https://www.svgrepo.com/show/449764/github.svg" width="50px" height="50px" />
 
 
 
