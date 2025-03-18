@@ -16,8 +16,8 @@
 ### About
 
 - 🕋 Muslim
-- 🏫 Senior CSE student at ASU
-- 💻 Front End Engineer
+- 💻 Software Engineer
+- 🏫 Graduated from Computer Engineering at Ain Shams University
 <!-- - 🌐 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
 
 
