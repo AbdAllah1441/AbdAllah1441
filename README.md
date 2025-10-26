@@ -20,14 +20,17 @@
 - 🏫 Graduated from Computer Engineering at Ain Shams University
 <!-- - 🌐 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
 
-
+<div>
+  
 <img width="385"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdAllah1441&show_icons=true&locale=en&layout=compact&theme=radical" alt="Languages" />
+</div>
 
 ### Skills 
 
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-141321?&logo=node.js&logoColor=339933)&nbsp; -->
 
-
+<div>
+  
 <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/452092/react.svg" width="50px" height="50px" /> <img display="inline" src="https://www.svgrepo.com/show/452045/js.svg" width="50px" height="50px" />
@@ -40,6 +43,7 @@
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50px" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/449764/github.svg" width="50px" height="50px" />
+</div>
 
 
 
