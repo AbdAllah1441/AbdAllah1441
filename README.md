@@ -33,7 +33,6 @@
   
 <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="50px" height="50px" />
-<img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/logo.png" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/452092/react.svg" width="50px" height="50px" /> <img display="inline" src="https://www.svgrepo.com/show/452045/js.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/349502/sass.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/353623/css-3.svg" width="50px" height="50px" />
