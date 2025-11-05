@@ -44,6 +44,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50px" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="50px" height="50px" />
+<img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/449764/github.svg" width="50px" height="50px" />
 </div>
 
