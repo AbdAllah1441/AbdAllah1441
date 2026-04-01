@@ -13,11 +13,6 @@
 
 
 
-### About
-
-- 🕋 Muslim
-- 💻 Software Engineer
-<!-- - 🌐 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
 
 <div>
   
