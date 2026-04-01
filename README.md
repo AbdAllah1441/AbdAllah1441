@@ -26,6 +26,7 @@
 <div>
   
 <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="50px" height="50px" />
+<img src="https://www.svgrepo.com/show/353723/expo-icon.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/452092/react.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width="50px" height="50px" />
 <img display="inline" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="50px" height="50px" />
