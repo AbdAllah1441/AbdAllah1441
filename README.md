@@ -15,8 +15,10 @@
 
 
 <div>
-  
-<img width="385"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdAllah1441&show_icons=true&locale=en&layout=compact&theme=radical" alt="Languages" />
+  <img width="385" align="right"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=AbdAllah1441&layout=compact&theme=radical&cache_seconds=1800"
+    alt="Languages"
+  />
 </div>
 
 ### Skills 
@@ -34,8 +36,6 @@
 <img src="https://www.svgrepo.com/show/349502/sass.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/353623/css-3.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/353884/html-5.svg" width="50px" height="50px" />
-<img src="https://www.svgrepo.com/show/374016/python.svg" width="50px" height="50px" />
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" width="50px" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="50px" height="50px" />
