@@ -5,24 +5,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=00b2df&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=[Software%20Engineer, ]&font=Fira%20Code&center=true&width=440&height=45&color=00b2df&vCenter=true&size=22"></a>
 </p> 
-
-<div> <img width="385" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdAllah1441&show_icons=true&locale=en&layout=compact&theme=radical" alt="Languages" /> </div>
-
-<div>
-  <img width="385" align="right"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=AbdAllah1441&layout=compact&theme=radical&cache_seconds=1800"
-    alt="Languages"
-  />
-</div>
 
 ### Skills 
 
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-141321?&logo=node.js&logoColor=339933)&nbsp; -->
-
 <div>
-  
 <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/353723/expo-icon.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/452092/react.svg" width="50px" height="50px" />
@@ -37,8 +25,6 @@
 <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="50px" height="50px" />
 <img src="https://www.svgrepo.com/show/449764/github.svg" width="50px" height="50px" />
 </div>
-
-
 
 ### How to Reach to Me
 
